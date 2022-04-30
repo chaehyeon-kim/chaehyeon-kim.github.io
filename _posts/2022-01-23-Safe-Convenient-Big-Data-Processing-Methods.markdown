@@ -1,8 +1,8 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "A Reserach on Safe and Convenient Big Data Processing Methods"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2022-01-23 22:10
+tag: data-management
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

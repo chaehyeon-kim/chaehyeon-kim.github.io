@@ -4,42 +4,43 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<strong>Chaehyeon Kim</strong> (김채현, 金採炫) <br>
+7chaeny25@gmail.com
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am second year Graduate student in Computer Science at Sookmyung Women's University advised by Professor Ki Yong Lee</p>
 
-<h2>Skills</h2>
+<p>Data Mining · Deep Learning · Databases</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<h2>Research</h2>
+
+<ul>
+Machine Learning methods based on artificial neural networks; <br>
+It includes deep learning, data mining, big data, and data streams.
+</ul>
+
+<h2>Publications</h2>
+
+<ul>
+	<li>A Gradient-Based Explanation Method for Graph Convolutional Neural Networks (submitted)</li>
+	<li>Improving Deep Learning Models Considering the Time Lags between Explanatory and Response Variables (submitted)</li>
+	<li>A Deep Learning Model for Identifying the Time Lag Between Explanatory Variables and Response Variable in Regression Analysis</li>
+	<li>Deep Learning-based Stock Price Prediction Using Limit Order Books and News Headlines</li>
+	<li>The Design of a Deep Learning Model that Simultaneously Finds Time Lags and a Regression Model Between Explanatory and Response Variables</li>
+	<li>Frequent Subgraph Mining Using Graph Embedding</li>
+	<li>Development of a Data Provenance Analysis System Using Node Embedding and Frequent Subgraph Mining Methods</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Personal Mobility (Electric Kickboard) Usage Data Analysis</li>
+	<li>NbS Reserach Trend Analysis</li>
+	<li>Application of Data Mining Technology to Commercial and Criminal Data</li>
+	<li>IR Center Academic Data Analysis</li>
+	<li>Development of automatic processing technology and safety verification technology for pseudonymization and anonymization of structured and unstructured data</li>
+	<li>Development of Intelligent Data Mining Techniques for Weighted Graph and Sequence Data</li>
+	<li>Event Log and Statistical Data Retrieval Optimization Technology</li>
+	<li>Development of Data Mining Techniques Optimized and Specialized for Array Data</li>
+	<li>Development of Translation Programs Using Natural Language Processing Deep Learning Models</li>
+	<li>A Reserach on Safe and Convenient Big Data Processing Methods</li>
 </ul>
