@@ -1,8 +1,11 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Development of Intelligent Data Mining Techniques for Weighted Graph and Sequence Data"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-02-21 03:21
+tag: 
+- data-mining
+- weighted-graph
+- sequence
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

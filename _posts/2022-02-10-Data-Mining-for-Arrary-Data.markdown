@@ -1,8 +1,8 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Development of Data Mining Techniques Optimized and Specialized for Array Data"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-02-10 02:10
+tag: data-mining
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

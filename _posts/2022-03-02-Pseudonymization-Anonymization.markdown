@@ -1,8 +1,10 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Development of automatic processing technology and safety verification technology for pseudonymization and anonymization of structured and unstructured data"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-03-02 22:13
+tag: 
+- pseudonymizatoin
+- anonymization
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

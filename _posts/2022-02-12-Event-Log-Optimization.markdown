@@ -1,8 +1,8 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Event Log and Statistical Data Retrieval Optimization Technolog"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-02-12 07:32
+tag: sql
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

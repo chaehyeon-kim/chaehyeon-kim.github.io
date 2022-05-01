@@ -1,8 +1,10 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "IR Center Academic Data Analysis"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-03-06 20:10
+tag: 
+- frequent-subsequence
+- sequence-clustering
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

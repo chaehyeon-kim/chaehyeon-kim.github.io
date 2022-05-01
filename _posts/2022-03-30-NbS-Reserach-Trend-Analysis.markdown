@@ -1,8 +1,8 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "NbS Reserach Trend Analysis"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-03-30 04:02
+tag: topic-modeling
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

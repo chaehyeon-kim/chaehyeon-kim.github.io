@@ -1,8 +1,14 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Application of Data Mining Technology to Commercial and Criminal Data"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-03-15 21:13
+tag: 
+- classification
+- regression
+- frequent-pattern-mining
+- clustering
+- outlier-detection
+- recommendation
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

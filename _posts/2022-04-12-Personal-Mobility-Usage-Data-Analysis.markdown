@@ -1,8 +1,8 @@
 ---
-title: "A Reserach on Safe and Convenient Big Data Processing Methods"
+title: "Personal Mobility (Electric Kickboard) Usage Data Analysis"
 layout: post
-date: 2022-01-23 22:10
-tag: data-management
+date: 2022-04-12 17:39
+tag: personal-mobility
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
